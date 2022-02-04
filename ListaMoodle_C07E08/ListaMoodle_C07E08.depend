@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1459818099 source:/Users/NicolasK/Documents/Linguagem C/ListaMoodle_C07E08/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

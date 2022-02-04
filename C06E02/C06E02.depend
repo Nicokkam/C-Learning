@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1464145099 source:/Users/NicolasK/Documents/Linguagem C/C06E02/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1464145383 source:/Users/NicolasK/Documents/LinguagemC/C06E02/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

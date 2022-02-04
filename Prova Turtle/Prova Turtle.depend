@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1458692241 source:/Users/NicolasK/Documents/Linguagem C/Prova Turtle/main.c
+	<stdio.h>
+	<stdlib.h>
+
